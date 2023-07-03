@@ -23,6 +23,8 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
+    "@builder.io/react": "^3.0.5",
+    "@builder.io/sdk": "^2.0.4",
     "nx": "16.4.2",
     "nx-cloud": "latest"
   },
