@@ -5,7 +5,7 @@ import Head from "next/head";
 import { RenderBuilderContent } from "@/components/builder";
 
 // Replace with your Public API Key
-builder.init('');
+builder.init('15b60103ca914a8ab2852e0dc20b76d0');
 
 // Define the expected shape of the props 
 // object passed to the Page function

@@ -7,7 +7,7 @@ import { BuilderComponent, useIsPreviewing } from "@builder.io/react";
 import DefaultErrorPage from "next/error";
 
 // Replace with your Public API Key
-builder.init('');
+builder.init('15b60103ca914a8ab2852e0dc20b76d0');
 
 // Define an interface for the BuilderPageProps object 
 // with a `content` property type `any`
